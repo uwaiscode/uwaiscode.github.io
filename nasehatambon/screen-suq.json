@@ -1,7 +1,5 @@
-
 {
-  "success": true,
-  "message": "Data berhasil diambil",
-  "name": "Halaman Pasar Salaf",
-  "data": "https://nasehatambon.com/shop/"
+  "success":true,
+  "message":"Data SUQ",
+  "data":"https://nasehatambon.com/shop/"
 }

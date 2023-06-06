@@ -1,7 +1,5 @@
-
 {
-  "success": true,
-  "message": "Data berhasil diambil",
-  "name": "Halaman Sosial Media",
-  "data": "https://nasehatambon.com/sosial-media-2/"
+  "success":true,
+  "message":"Data SOSMED",
+  "data":"https://nasehatambon.com/sosial-media-2/"
 }

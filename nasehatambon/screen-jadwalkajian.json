@@ -1,7 +1,5 @@
-
 {
-  "success": true,
-  "message": "Data berhasil diambil",
-  "name": "Halaman Jadwal Kajian",
-  "data": "https://nasehatambon.com/jadwal-kajian-mobile/"
+  "success":true,
+  "message":"Data JADWAL KAJIAN",
+  "data":"https://nasehatambon.com/jadwal-kajian-mobile/"
 }
