@@ -1,0 +1,7 @@
+
+{
+  "success": true,
+  "message": "Data Radio Server #1 berhasil diambil",
+  "name": "Sumber Radio #1",
+  "data": "https://radionasehat.com:4443/listen/radio_nasehat_ambon/radio.mp3"
+}
