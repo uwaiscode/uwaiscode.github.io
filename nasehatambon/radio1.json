@@ -3,5 +3,5 @@
   "success": true,
   "message": "Data Radio Server #2 berhasil diambil",
   "name": "Sumber Radio #2",
-  "data": "https://radionasehat.com:4443/listen/radio_nasehat_muslimah/radio.mp3",
+  "data": "https://radionasehat.com:4443/listen/radio_nasehat_muslimah/radio.mp3"
 }
